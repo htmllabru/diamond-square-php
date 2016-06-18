@@ -1,2 +1,3 @@
 # diamond-square-php
-Реализация алгоритма "Diamond-Square". За исходник взят код http://jsfiddle.net/zessx/KhetG/
+Реализация алгоритма "Diamond-Square" на PHP.  http://htmllab.ru/diamond-square-php/
+
